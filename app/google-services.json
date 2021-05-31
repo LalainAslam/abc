@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "910844334791",
+    "project_id": "android-tutorials-ad573",
+    "storage_bucket": "android-tutorials-ad573.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910844334791:android:d56be7e4585168c155a4e2",
+        "android_client_info": {
+          "package_name": "com.example.loginandregisterusingfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910844334791-h46mgg0gt548pvdt21u2nr3inn84dnie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMMaz0PmvsWa6tPJ4iiG70xVqz-UXMaO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910844334791-h46mgg0gt548pvdt21u2nr3inn84dnie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
